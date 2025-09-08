@@ -15,7 +15,7 @@
     "🐭"
   ],
   "PREFIX": "!",
-  "MODE": "public",
+  "MODE": "self",
   "MAX_RETRIES": 3,
   "GROUP_INVITE_LINK": "",
   "ADMIN_LIST_PATH": "./admin.json",
